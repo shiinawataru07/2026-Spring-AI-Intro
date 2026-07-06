@@ -60,7 +60,7 @@ if __name__ == "__main__":
 
 
     # Alternatively, you can use other LLM models like GPT-4, etc.
-    API_KEY = "sk-3d27ad00495a4f4ca3effefea8ccd7e5"  # TODO: Replace with your own Deepseek API key
+    API_KEY = "your API key"  # TODO: Replace with your own Deepseek API key
     model_name = "deepseek-v4-flash"  # TODO: Choose the model, "deepseek-chat" == deepseek-v3, "deepseek-reasoner" == deepseek-r1
 
 
