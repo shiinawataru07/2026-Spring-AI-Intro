@@ -45,8 +45,6 @@ def q3(name_score_dict):
           为每个学生创建一个Student对象，并将这些对象放入一个列表中，按成绩从高到低排序。然后返回该列表
     '''
     class Student:
-        name = ''
-        score = 0
         def __init__(self, name, score):
             self.name = name
             self.score = score
